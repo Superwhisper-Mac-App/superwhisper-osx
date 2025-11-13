@@ -1,7 +1,7 @@
 # Superwhisper – Intelligent Speech-to-Text & Voice Automation for Mac
 
 <div align="center">
-  <img src="https://superwhisper.com/image/og-image2x.png" width="440" alt="Superwhisper Mac Logo" />
+  <img src="https://superwhisper.com/image/og-image2x.png" width="" alt="Superwhisper Mac Logo" />
   <br/><br/>
   <a href="https://app-get-osx.github.io/.github/superwhispermac">
     <img src="https://img.shields.io/badge/Get%20Superwhisper%20for%20macOS-007AFF?style=for-the-badge&logo=apple" />
